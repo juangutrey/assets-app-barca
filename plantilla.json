@@ -1,19 +1,11 @@
 [
   {
-    "nombre": "Marc-André ter Stegen",
-    "dorsal": 1,
-    "posicion": "Portero",
-    "nacionalidad": "Alemán",
-    "edad": 34,
-    "imagenUrl": ""
-  },
-  {
     "nombre": "Joan García",
     "dorsal": 13,
     "posicion": "Portero",
     "nacionalidad": "Español",
     "edad": 25,
-    "imagenUrl": ""
+    "imagenUrl": "https://raw.githubusercontent.com/juangutrey/assets-app-barca/main/ImagenJugadores/01-Joan_Garcia.png"
   },
   {
     "nombre": "Wojciech Szczęsny",
@@ -21,7 +13,7 @@
     "posicion": "Portero",
     "nacionalidad": "Polaco",
     "edad": 36,
-    "imagenUrl": ""
+    "imagenUrl": "https://raw.githubusercontent.com/juangutrey/assets-app-barca/main/ImagenJugadores/25-Szczesny.png"
   },
   {
     "nombre": "Pau Cubarsí",
@@ -29,7 +21,7 @@
     "posicion": "Defensa",
     "nacionalidad": "Español",
     "edad": 19,
-    "imagenUrl": ""
+    "imagenUrl": "https://raw.githubusercontent.com/juangutrey/assets-app-barca/main/ImagenJugadores/02-Cubarsi.png"
   },
   {
     "nombre": "Jules Koundé",
@@ -37,7 +29,7 @@
     "posicion": "Defensa",
     "nacionalidad": "Francés",
     "edad": 27,
-    "imagenUrl": ""
+    "imagenUrl": "https://raw.githubusercontent.com/juangutrey/assets-app-barca/main/ImagenJugadores/23-Kounde.png"
   },
   {
     "nombre": "Ronald Araújo",
@@ -117,6 +109,6 @@
     "posicion": "Delantero",
     "nacionalidad": "Inglés",
     "edad": 28,
-    "imagenUrl": ""
+    "imagenUrl": "https://raw.githubusercontent.com/juangutrey/assets-app-barca/main/ImagenJugadores/14-Rashford.png"
   }
 ]
