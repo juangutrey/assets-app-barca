@@ -4,15 +4,119 @@
     "dorsal": 1,
     "posicion": "Portero",
     "nacionalidad": "Alemán",
-    "edad": 32,
-    "imagenUrl": "URL_DE_LA_FOTO_DEL_JUGADOR"
+    "edad": 34,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Joan García",
+    "dorsal": 13,
+    "posicion": "Portero",
+    "nacionalidad": "Español",
+    "edad": 25,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Wojciech Szczęsny",
+    "dorsal": 25,
+    "posicion": "Portero",
+    "nacionalidad": "Polaco",
+    "edad": 36,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Pau Cubarsí",
+    "dorsal": 5,
+    "posicion": "Defensa",
+    "nacionalidad": "Español",
+    "edad": 19,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Jules Koundé",
+    "dorsal": 23,
+    "posicion": "Defensa",
+    "nacionalidad": "Francés",
+    "edad": 27,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Ronald Araújo",
+    "dorsal": 4,
+    "posicion": "Defensa",
+    "nacionalidad": "Uruguayo",
+    "edad": 27,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Alejandro Balde",
+    "dorsal": 3,
+    "posicion": "Defensa",
+    "nacionalidad": "Español",
+    "edad": 22,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Pedri",
+    "dorsal": 8,
+    "posicion": "Centrocampista",
+    "nacionalidad": "Español",
+    "edad": 23,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Gavi",
+    "dorsal": 6,
+    "posicion": "Centrocampista",
+    "nacionalidad": "Español",
+    "edad": 21,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Fermín López",
+    "dorsal": 16,
+    "posicion": "Centrocampista",
+    "nacionalidad": "Español",
+    "edad": 23,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Dani Olmo",
+    "dorsal": 20,
+    "posicion": "Centrocampista",
+    "nacionalidad": "Español",
+    "edad": 28,
+    "imagenUrl": ""
   },
   {
     "nombre": "Lamine Yamal",
-    "dorsal": 19,
+    "dorsal": 10,
     "posicion": "Delantero",
     "nacionalidad": "Español",
-    "edad": 17,
-    "imagenUrl": "URL_DE_LA_FOTO_DEL_JUGADOR"
+    "edad": 18,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Robert Lewandowski",
+    "dorsal": 9,
+    "posicion": "Delantero",
+    "nacionalidad": "Polaco",
+    "edad": 37,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Raphinha",
+    "dorsal": 11,
+    "posicion": "Delantero",
+    "nacionalidad": "Brasileño",
+    "edad": 29,
+    "imagenUrl": ""
+  },
+  {
+    "nombre": "Marcus Rashford",
+    "dorsal": 14,
+    "posicion": "Delantero",
+    "nacionalidad": "Inglés",
+    "edad": 28,
+    "imagenUrl": ""
   }
 ]
