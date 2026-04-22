@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Marc-André ter Stegen",
+    "dorsal": 1,
+    "posicion": "Portero",
+    "nacionalidad": "Alemán",
+    "edad": 32,
+    "imagenUrl": "URL_DE_LA_FOTO_DEL_JUGADOR"
+  },
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 19,
+    "posicion": "Delantero",
+    "nacionalidad": "Español",
+    "edad": 17,
+    "imagenUrl": "URL_DE_LA_FOTO_DEL_JUGADOR"
+  }
+]
